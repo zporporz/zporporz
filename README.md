@@ -142,15 +142,15 @@ Systems designed to support training operations and organization.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecgkasit&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zporporz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecgkasit&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zporporz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Contact
 
-- GitHub: [@ecgkasit](https://github.com/ecgkasit)
+- GitHub: [@zporporz](https://github.com/zporporz)
 - Training Contact: th-t02@ivao.aero
 - Event Contact: th-ea1@ivao.aero
 - IVAO Email: ecgkasit.bunyakhachai@ivao.aero
