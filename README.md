@@ -139,12 +139,11 @@ Systems designed to support training operations and organization.
 - Internal management pages
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
+Still learning. Still building. Still shipping.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zporporz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zporporz&layout=compact&theme=tokyonight&hide_border=true)
+Most of my work is about turning ideas into useful tools for aviation communities, with AI-assisted coding, debugging, and a lot of iteration.
 
 ---
 
