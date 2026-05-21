@@ -1,23 +1,43 @@
 # Hey, I'm Ecgkasit 👋
 
-> I build ideas into working systems with AI-assisted coding, product thinking, and a lot of debugging.
+> AI-assisted builder, virtual aviation staff, and vibe coding enjoyer.
 
-I'm not here to pretend I write every single line from scratch.  
-I use AI as a coding partner to move faster, learn faster, and turn ideas into real tools.
+I like turning ideas into working tools with a mix of product thinking, clean UI, debugging, and AI-assisted coding.
 
-For me, coding is not only about typing code.  
-It's about understanding the problem, designing the workflow, testing the system, fixing what breaks, and shipping something people can actually use.
+I don't pretend that I write every single line from scratch.  
+I use AI as a coding partner, but I still guide the idea, structure the workflow, test the system, fix what breaks, and ship things that people can actually use.
 
 ---
 
-## 🚀 What I'm Building
+## ✈️ About Me
 
-- 🛡️ FiveM Police / EMS management systems
+- 🎓 Computer Science learner
+- ✈️ Virtual aviation enthusiast
+- 🧑‍🏫 IVAO Thailand Training Staff
+- 🗓️ IVAO Thailand Event Staff
+- 🧩 Building tools for aviation communities
+- 🤖 Exploring AI-assisted development and vibe coding
+
+---
+
+## 🛫 IVAO Roles
+
+| Role | Division / Department | Contact |
+|---|---|---|
+| Division Trainer 2 | IVAO Thailand Training | th-t02@ivao.aero |
+| Division Event Advisor 1 | IVAO Thailand Events | th-ea1@ivao.aero |
+| Staff Contact | IVAO | ecgkasit.bunyakhachai@ivao.aero |
+
+---
+
+## 🚀 What I Build
+
 - ✈️ Virtual aviation tools
 - 📅 Event and training platforms
+- 🧑‍🏫 Training management systems
 - 🧩 Admin dashboards and internal tools
+- 🌐 Community websites
 - 🤖 AI-assisted web applications
-- 🔐 Role-based systems with Discord login
 
 ---
 
@@ -29,109 +49,94 @@ It's about understanding the problem, designing the workflow, testing the system
 | 🎨 UI | Design clean and usable interfaces |
 | 🛠️ Build | Use AI-assisted coding to create the system |
 | 🐛 Debug | Break things, fix things, and learn |
-| 🚢 Ship | Deploy real tools that people can use |
+| 🚢 Ship | Deploy tools that people can use |
 | 🔁 Improve | Keep refining after feedback |
 
 ---
 
 ## 🛠️ Tech I Use
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
 
 ---
 
 ## 🔥 Current Focus
 
-I'm currently focused on building systems for communities, especially:
+I'm currently focused on building tools for aviation communities, especially:
 
-- FiveM department management
-- Police and EMS workflow tools
-- Discord OAuth and role permissions
-- Admin dashboards
-- Rules and document systems
-- Virtual aviation event tools
-- Better backend structure and deployment
-
----
-
-## 🛡️ FiveM Systems
-
-I enjoy building tools that help staff teams manage real workflows.
-
-Some things I work on:
-
-- Officer and staff management
-- Case / duty / payroll systems
-- Rules and workflow pages
-- Admin-only panels
-- Discord role-based access
-- EMS and police department tools
-- Internal dashboards for server operations
+- IVAO event tools
+- Training schedule systems
+- Staff workflow platforms
+- Community management pages
+- Clean dashboard interfaces
+- Better web tools for pilots, ATC, and staff teams
 
 ---
 
 ## ✈️ Virtual Aviation
 
-Aviation is one of the main reasons I started building web tools.
+Virtual aviation is one of the main reasons I started building web tools.
 
-I like creating systems for:
+I enjoy working on systems for:
 
 - IVAO events
-- Training schedules
-- Staff workflows
-- Flight operation pages
-- Community tools for pilots and controllers
+- ATC and pilot training
+- Training session organization
+- Event briefing pages
+- Staff workflow tools
+- Community operation platforms
 
 ---
 
 ## 🤖 About AI-Assisted Coding
 
-I use AI to help me code, but I still guide the product.
+I use AI to help me build faster, but I still care about the product.
 
 AI helps with speed.  
-I still care about the idea, the structure, the user experience, and whether the system actually works.
+I still guide the idea, design the workflow, review the result, debug problems, and make sure the system actually works.
 
 > I don't write every line alone — I design the idea, guide the build, debug the system, and ship the product.
 
 ---
 
-## 📌 Featured Type of Projects
+## 📌 Featured Project Types
 
-### 🛡️ PD / EMS Management System
+### ✈️ Virtual Aviation Event Tools
 
-A management platform for FiveM police and EMS departments.
-
-**Main features**
-
-- Discord login
-- Role-based permissions
-- Admin dashboard
-- Rules system
-- Workflow management
-- PostgreSQL database
-- API backend
-- Railway deployment
-
----
-
-### ✈️ Virtual Aviation Tools
-
-Tools for aviation events, training, and staff operations.
+Tools for aviation events, staff operations, and community workflows.
 
 **Main focus**
 
 - Event planning
+- Briefing pages
+- Staff coordination
 - Schedule management
-- Training organization
 - Clean dashboard UI
 - Community workflow support
+
+---
+
+### 🧑‍🏫 Training Management Tools
+
+Systems designed to support training operations and organization.
+
+**Main focus**
+
+- Training schedules
+- Session tracking
+- Staff tools
+- Student workflow
+- Internal management pages
 
 ---
 
@@ -143,11 +148,13 @@ Tools for aviation events, training, and staff operations.
 
 ---
 
-## 🌐 Connect
+## 🌐 Contact
 
 - GitHub: [@ecgkasit](https://github.com/ecgkasit)
-- Focus: AI-assisted development, FiveM systems, and virtual aviation tools
+- Training Contact: th-t02@ivao.aero
+- Event Contact: th-ea1@ivao.aero
+- IVAO Email: ecgkasit.bunyakhachai@ivao.aero
 
 ---
 
-> Building useful systems, one broken build at a time.
+> Building aviation tools, learning by shipping, and vibe coding my way through it.
